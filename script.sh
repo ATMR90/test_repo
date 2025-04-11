@@ -1,3 +1,3 @@
 mkdir folder
-cd folder
+touch file
 touch file
